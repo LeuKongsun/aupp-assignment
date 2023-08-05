@@ -2,6 +2,7 @@
 2. Clone the repository at local system.
 3. Upload a text file in github repo.
 adding line 3
+b-branch added
 4. Change/add the text in line no 3 in your uploaded github repo file.
 5. Add the same text file in your local repository.
 6. Change/add the text in line no 3 in your local github repo file.
